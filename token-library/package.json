@@ -1,0 +1,27 @@
+{
+  "name": "token-library",
+  "version": "1.0.0",
+  "description": "Design token library with Style Dictionary transforms",
+  "scripts": {
+    "build": "node sd.config.js",
+    "build:css": "style-dictionary build --platform css --config sd.config.js",
+    "build:tailwind": "style-dictionary build --platform tailwind --config sd.config.js",
+    "build:flutter": "style-dictionary build --platform flutter --config sd.config.js",
+    "build:kotlin": "style-dictionary build --platform kotlin --config sd.config.js",
+    "build:swift": "style-dictionary build --platform swift --config sd.config.js",
+    "build:all": "npm run build:css && npm run build:tailwind && npm run build:flutter && npm run build:kotlin && npm run build:swift",
+    "watch": "node scripts/watch-tokens.js",
+    "clean": "rm -rf build-tokens/*",
+    "tokens:diff": "node scripts/check-changes.js",
+    "tokens:hash": "node scripts/hash-tokens.js"
+  },
+  "dependencies": {
+    "style-dictionary": "^5.4.0"
+  },
+  "keywords": [
+    "design-tokens",
+    "style-dictionary",
+    "figma"
+  ],
+  "license": "MIT"
+}
