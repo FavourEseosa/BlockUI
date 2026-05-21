@@ -1,17 +1,29 @@
-MIT License
+BlockUI Open Source License
 
-Copyright (c) 2026 iamfavoureseosa
+Copyright (c) 2026 BlockUI and Contributors.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+PERMISSION GRANTS:
+You are granted permission to:
+- Use, copy, and modify this software for personal, non-commercial purposes
+- Study and learn from the source code
+- Submit contributions, including bug reports, feature requests, and pull requests
+- Create derivative works for personal or non-commercial use
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+RESTRICTIONS:
+You are NOT permitted to:
+- Sell, distribute, or license this software or derivative works for commercial purposes without explicit written permission from the original creators
+- Distribute the software under a different license without permission
+- Use the BlockUI name or branding in derivative works without permission
 
+CONTRIBUTING:
+The public is welcome to contribute to this project by:
+- Submitting bug reports and feature requests
+- Creating and submitting pull requests for improvements and new features
+- Participating in discussions and code reviews
+
+All contributions must include this license with any distributions and the original copyright notice.
+
+DISCLAIMER:
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -19,3 +31,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+For permissions beyond the scope of this license, please contact the creators.
